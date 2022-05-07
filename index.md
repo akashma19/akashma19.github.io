@@ -1,8 +1,10 @@
+---
+layout: default
+---
+
 ## Welcome
 
 You can use the [editor on GitHub](https://github.com/akashma19/akashma19.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-
 
 ### Markdown
 
@@ -12,7 +14,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
