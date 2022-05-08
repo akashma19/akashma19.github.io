@@ -9,16 +9,20 @@ Hi 🙋🏻‍♂️, My name is Aakash Achankutty, an aspirante cloud enginner.
 
 
 
-* From 🇮🇳
-* 📍 Waterloo, canada
-* Love to travel 🛫
-* Reading **Kafka on the shore** 📕
-* ❤️ Table Tennis 
+*  From 🇮🇳
+
+*  📍 Waterloo, canada
+
+*  Love to travel 🛫
+
+*  Reading **Kafka on the shore** 📕
+*  
+*  ❤️ Table Tennis 
 
 
 ---
 
-  ## Projects 
+## Projects
 
   ⭐️ [canawin.ca](https://canawin.ca)
 
