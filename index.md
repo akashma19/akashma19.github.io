@@ -1,6 +1,6 @@
 ---
 layout: techness
-# permalink:  "/Welcome to Techness/"
+permalink:  "/Welcome to Techness/"
 ---
 
 
