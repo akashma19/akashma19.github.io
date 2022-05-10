@@ -2,3 +2,11 @@ theme: jekyll-theme-architect
 
 title: "Techness.ca"
 description: "Aws Solution Architect - Associate"
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
