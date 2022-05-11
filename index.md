@@ -9,7 +9,7 @@ layout: techness
 
 --- 
 
-Hi 🙋🏻‍♂️, My name is Aakash Achankutty, an aspirante cloud enginner. I love cuting-edge technologies and always ready to explore new tech ⚡️. I have 3+ years of experince in software engineering.
+Hi 🙋🏻‍♂️, My name is Aakash Achankutty, an aspirante cloud enginner. I very much attracted towards cuting-edge technologies and always exploring new tech⚡️. I have 3+ years of experince in IT industry.
 
 
 ---
