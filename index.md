@@ -1,6 +1,7 @@
 ---
 
 layout: techness
+title: Welcome to techness
 
 ---
 
