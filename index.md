@@ -16,10 +16,30 @@ Hi 🙋🏻‍♂️, My name is Aakash Achankutty, an aspirante cloud enginner.
 
 ---
 
+
+## Tech Blogs
+
+{% for post in site.category %}
+
+{% if site.catg[0] == "tech blog" %}
+
+<div>
+
+      ⭐️ <a href="{{ post.url }}">{{ post.title }}</a>
+  </div>
+    
+  {% endfor %}
+
+
+
+
+
 ## Projects
 
 
-{% for post in site.posts %}
+{% for catg in site.category %}
+
+{% if site.catg[0] == "projects" %}
 
 <div>
 
